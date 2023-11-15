@@ -1,4 +1,4 @@
-"# OUARARI-kawtar" 
+
 # Projet Spring Boot avec Swagger et Maven
 
 Ce projet démontre comment créer une application Spring Boot avec l'intégration de Swagger pour la documentation de l'API. Maven est utilisé comme système de gestion de projet.
@@ -36,6 +36,8 @@ Une fois l'application lancée, accédez à Swagger UI pour explorer et tester l
 
 Configuration Swagger
 La configuration Swagger se trouve dans la classe SwaggerConfig. Vous pouvez personnaliser la documentation Swagger en modifiant cette classe selon vos besoins.
+
+## Base de données
 
 ## Maven Commands
 
