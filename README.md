@@ -53,6 +53,17 @@ La configuration Swagger se trouve dans la classe SwaggerConfig. Vous pouvez per
 
 ![AficherArticle](https://github.com/ouarriorxx/Controle/assets/143946046/3d683c2d-1246-48b0-bff5-8de39d23daa1)
 
+## Modifier Article
+
+![ModifierArt](https://github.com/ouarriorxx/Controle/assets/143946046/cded925c-6f2a-4e4c-a8da-cc8441217d9c)
+
+## Supprimer Article
+
+![Delete Article](https://github.com/ouarriorxx/Controle/assets/143946046/cf5c7c91-dbc2-490f-b63e-85da985afe8c)
+
+## Ajouter Categorie
+
+![AjouterCategorie](https://github.com/ouarriorxx/Controle/assets/143946046/8502080a-3bd7-4845-ae2b-6c37a7b86e22)
 
 
 ## Maven Commands
