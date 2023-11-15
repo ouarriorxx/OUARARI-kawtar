@@ -39,7 +39,7 @@ La configuration Swagger se trouve dans la classe SwaggerConfig. Vous pouvez per
 
 ## Base de données
 
-![BDD](https://github.com/ouarriorxx/Controle/assets/143946046/80e540ff-a7c9-46f9-9f85-db62f9ed51c0)
+![BDD](https://github.com/ouarriorxx/Controle/assets/143946046/babc2bb7-8567-4da2-9e38-84adcd4b5f6a)
 
 ## swagger
 
@@ -48,6 +48,11 @@ La configuration Swagger se trouve dans la classe SwaggerConfig. Vous pouvez per
 ## Ajouter Article
 
 ![AjouterArticle](https://github.com/ouarriorxx/Controle/assets/143946046/d3fc20c2-24a3-452e-b202-6700dea804a9)
+
+## AficherArticle
+
+![AficherArticle](https://github.com/ouarriorxx/Controle/assets/143946046/3d683c2d-1246-48b0-bff5-8de39d23daa1)
+
 
 
 ## Maven Commands
